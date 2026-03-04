@@ -1,0 +1,19 @@
+# Kodi addons developed by Siva2109
+
+Latest repository zip file is
+[repository.Siva2109-2.0.3](https://github.com/Gujal00/SivadelightKodiWork/raw/master/zips/repository.Siva2109/repository.Siva2109-2.0.3.zip)
+<br>
+
+### Disclaimer
+
+These addons and their developers are not in any way affiliated with Kodi or any of the sites and providers used in their addons.
+<br>These addons are and always will be free and open-source. None of their code and resources may be sold or redistributed for any commercial purposes.
+<br>These addons and their developers do not host, create, or distribute any of the content displayed in the addons, they simply browse public websites available on the Internet.
+
+## Addons in repository
+
+|Icon|Name|Version|Release Date|Status|
+|---|---|---|---|---|
+|<img src="https://raw.githubusercontent.com/Gujal00/SivadelightKodiWork/master/zips/plugin.audio.radiosindia/icon.png" width="96">|Radios India|0.3.4<br>Kodi 19 ready|[2020-04-30](https://raw.githubusercontent.com/Gujal00/SivadelightKodiWork/master/zips/plugin.audio.radiosindia/changelog.txt)|Working
+|<img src="https://raw.githubusercontent.com/Gujal00/SivadelightKodiWork/master/zips/plugin.video.live.streamspro/icon.png" width="96">|Live Streams Pro|2.9.7|[2020-09-06](https://raw.githubusercontent.com/Gujal00/SivadelightKodiWork/master/zips/plugin.video.live.streamspro/changelog.txt)|Working
+|<img src="https://raw.githubusercontent.com/Gujal00/SivadelightKodiWork/master/zips/service.subtitles.subscene/icon.png" width="96">|Subscene|2.1.5<br>Kodi 19 ready|[2024-06-15](https://raw.githubusercontent.com/Gujal00/SivadelightKodiWork/master/zips/service.subtitles.subscene/changelog.txt)|Working
